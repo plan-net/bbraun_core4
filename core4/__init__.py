@@ -5,9 +5,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-__project__ = 'core4'
-__version__ = "1.0.10"
+__project__ = 'bbraun'
+__version__ = "0.7.4"
 __built__ = "2023-05-18 20:49:46.056000"
-name = 'core4'
-title = 'core4 framework'
-description = 'core4 integration automation framework'
+name = 'bbraun_linkbuilder'
+title = 'B.Braun Linkbuilder'
+description = 'B.Braun Linkbuilder - Tracking Link Creation Tool'
