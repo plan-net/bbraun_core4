@@ -5,7 +5,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-__project__ = 'core4'
+__project__ = 'LB'
 __version__ = "linkbuilder_0.7.4"
 __built__ = "2023-05-18 20:49:46.056000"
 name = 'bbraun_linkbuilder'
